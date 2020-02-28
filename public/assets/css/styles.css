@@ -1,0 +1,28 @@
+.text-size {
+  font-size: 10px;
+}
+
+@media (min-width: 576px) {
+  .text-size {
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 768px) {
+  .text-size {
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 992px) {
+  .text-size {
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .text-size {
+    font-size: 12px;
+  }
+}
+
